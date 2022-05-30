@@ -1,0 +1,18 @@
+{
+    "manifest_version": 3,
+    "version":"2.0",
+    "name": "SimpleSave",
+    "description": "Extension that used to take notes instantly in easy manner",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "./16img.png"
+    },
+    "icons" : {
+        "16" : "./images/16ximg.ico",
+        "32" : "./images/32img.png",
+        "128" : "./images/128img.png"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}
