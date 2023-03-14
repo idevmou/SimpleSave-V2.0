@@ -7,11 +7,6 @@
         "default_popup": "index.html",
         "default_icon": "./16img.png"
     },
-    "icons" : {
-        "16" : "./images/16ximg.ico",
-        "32" : "./images/32img.png",
-        "128" : "./images/128img.png"
-    },
     "permissions": [
         "tabs"
     ]
